@@ -232,7 +232,7 @@ since its not supported well enough, best to stick to em. */
     and find the nearest element with a position of 'relative', and it will then apply its positioning values
     with respect to that.  so here, we want the signupbox to position wrt the hero container.*/
     padding-bottom: 11%;
-    background-image:url(../images/hero-hair.jpg);
+    background-image:url(../images/hero-hair2.jpg);
     background-repeat: no-repeat;
     /*standard thing to do everything you have a big bg image, stops it tiling*/
     background-size:cover;
