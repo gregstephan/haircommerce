@@ -6085,11 +6085,12 @@ a.waves-effect .waves-ripple {
 .collapsible-header {
   display: block;
   cursor: pointer;
-  height: 3rem;
   line-height: 3rem;
   padding: 0 1rem;
   background-color: #fff;
-  border-bottom: 1px solid #ddd; }
+  border-bottom: 1px solid #ddd; 
+  height:auto;
+}
   .collapsible-header i {
     width: 2rem;
     font-size: 1.6rem;
@@ -6097,7 +6098,10 @@ a.waves-effect .waves-ripple {
     display: block;
     float: left;
     text-align: center;
-    margin-right: 1rem; }
+    margin-right: 1rem; 
+
+  
+  }
 
 .collapsible-body {
   display: none;
