@@ -292,6 +292,14 @@ input[type="text"] {
 
 }
 
+.mc-field-group {
+    color:white;
+}
+
+.mce-success-response {
+    margin-bottom: 12px;
+}
+
 input[type="submit"] {
     background-color: #ef2c6c;
     border:none;
