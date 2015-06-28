@@ -296,8 +296,9 @@ input[type="text"] {
     color:white;
 }
 
-.mce-success-response {
+#mce-success-response {
     margin-bottom: 12px;
+    color:white;
 }
 
 input[type="submit"] {
