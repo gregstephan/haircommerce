@@ -275,6 +275,9 @@ since its not supported well enough, best to stick to em. */
 
 }
 
+._option {
+    color:white!important;
+}
 
 input[type="email"],
 input[type="text"] {
